@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-dotenv
-pinecone-client
-whisper
-ffmpeg-python
-faiss-cpu
